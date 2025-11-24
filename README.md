@@ -1,2 +1,1 @@
-# Tower-DefenseTraining-master
-Juego Tower Defense 
+Tutorial for Tower Defense training in Unity.
